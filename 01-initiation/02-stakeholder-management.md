@@ -46,4 +46,5 @@ The stakeholder analysis will be reviewed and updated when project scope, stakeh
 
 
 
-Find the stakeholder analysis in: ![Stakeholder Analysis](images/Stakeholder-analysis.png)
+Find the stakeholder analysis in: 
+![Stakeholder Analysis](../images/Stakeholder-analysis.png)
