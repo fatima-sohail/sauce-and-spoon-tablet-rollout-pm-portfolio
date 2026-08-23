@@ -15,9 +15,3 @@ Quantitative, measurable outcomes that prove you have achieved the objective.
 Find the company OKR in the image below:
 
 ![OKR](../images/Company-OKRs.png)
-
-
-
-
-
-
