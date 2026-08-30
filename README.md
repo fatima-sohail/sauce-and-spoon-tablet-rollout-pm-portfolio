@@ -8,6 +8,8 @@ Sauce & Spoon introduced tabletop menu tablets in the bar areas of its North and
 
 This portfolio documents the project from initiation through closing. It includes the project charter, stakeholder-management work, scope decisions, task planning, duration estimates, quality standards, customer feedback, a retrospective, and closeout reporting.
 
+> **Note:** See [Repository Setup](./0.repository-setup.md) for details on how this portfolio repository was organized, created, and maintained using IntelliJ IDEA, GitHub Desktop, and GitHub.
+
 ## Project Goals
 
 - Reduce average table-turn time by **30 minutes**.
